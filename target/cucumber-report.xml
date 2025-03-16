@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="6.74" tests="1" skipped="0" failures="1" errors="0" timestamp="2025-03-16T18:57:50.526879300Z">
+<testcase classname="Purchase the order from SauceDemo" name="Create Order Positive Case" time="6.481">
+<failure/>
+<system-out><![CDATA[
+Given Buyer navigates to SauceDemo login page...............................undefined
+Given Buyer logged to website...............................................skipped
+When Buyer add a product to the cart........................................skipped
+And Buyer proceeds to checkout..............................................skipped
+And Buyer completes the order...............................................skipped
+Then Buyer should see the confirmation message "Thank you for your order!"..skipped
+]]></system-out>
+</testcase>
+</testsuite>
