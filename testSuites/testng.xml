@@ -5,10 +5,10 @@
         <test name="MyTestGroup">
         <parameter name="program"  value="Bootcamp API Automation"/>
             <classes>
-                <!-- <class name="automation.StandAloneTesNGImplTest" />
-                <class name="automation.StandAloneTesNGImpl2Test" /> -->
+                <class name="automation.SauceDemoTestNGImplTest"/>
+                <class name="automation.SauceDemoTestNGImpl2Test"/>
                 <class name="runners.TestRunnerTestNg"/>
             </classes>
         </test>
     </suite>
-<!-- </suite> -->
+<!-- </suite> --> 
