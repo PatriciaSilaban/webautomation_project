@@ -1,6 +1,5 @@
 package automation;
 
-import com.webautomation_project.pageobjects.*;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
@@ -8,6 +7,9 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+
+import com.automation.pageobjects.*;
+
 import java.time.Duration;
 
 public class SauceDemoTestNGImpl2Test {
